@@ -2,7 +2,7 @@
 
 ---
 
-# certificates
+# certificates & feedback
 
 [Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школах 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
 
