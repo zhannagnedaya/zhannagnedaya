@@ -8,7 +8,7 @@
 
 [Яндекс Практикум -- Благодарственное письмо за участие в тестировании сайтов Фонда медицинских решений «Не напрасно» ](https://drive.google.com/file/d/1pfCQgVndUyYfZeukQpQM3Qoihsn8_Mi7/view?usp=share_link)
 
-[Фидбэк от руководителя и координаторов проекта Фонда медицинских решений «Не напрасно» ](https://drive.google.com/file/d/1oU7zdHE9SaDHcI-lN-rLiu9jvQ-GdBhC/view?usp=share_link)
+[Фидбэк от руководителя и координаторов проекта Фонда медицинских решений «Не напрасно» ](https://drive.google.com/file/d/1VrOnhU8NU2M8xoZFBf0F5159619ydaXg/view?usp=share_link)
 
 [Яндекс Практикум -- Диплом о профессиональной переподготовке по профессии «Инженер по тестированию» ](https://drive.google.com/file/d/15etd1r2fJpZgG7Da-LWor1S1-zfUqB0R/view?usp=sharing)
 
