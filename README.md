@@ -20,6 +20,8 @@
 
 # certificates
 
+[Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школах 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
+
 [Яндекс Практикум -- Диплом о профессиональной переподготовке по профессии «Инженер по тестированию» ](https://drive.google.com/file/d/15etd1r2fJpZgG7Da-LWor1S1-zfUqB0R/view?usp=sharing)
 
 [Yandex Practicum -- Certificate of Completion of the QA Engineer Professional Training Course](https://drive.google.com/file/d/1b9J7mzpsD678q4MpAlJjeEV2q9xsV01d/view?usp=sharing)
