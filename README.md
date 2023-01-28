@@ -24,7 +24,7 @@
 
 ---
 
-# projects
+# projects -- manual testing
 
 Тестирование сервиса [Grustnogram](https://grustnogram.ru) -- portfolio in progress
 
