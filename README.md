@@ -28,7 +28,7 @@
 
 Тестирование сервиса [Grustnogram](https://grustnogram.ru) -- portfolio in progress
 
-Тестирование сервиса [OnkoWiki](https://wiki.nenaprasno.ru) -- portfolio in progress
+[Тестирование сервиса OnkoWiki](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
 
 [Тестирование сервиса Яндекс.Самокат (веб, мобильное приложение и API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
 
