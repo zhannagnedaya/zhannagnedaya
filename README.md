@@ -28,12 +28,12 @@
 
 Тестирование сервиса [Grustnogram](https://grustnogram.ru) -- portfolio in progress
 
-[Тестирование сервиса OnkoWiki](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
+[Тестирование сервиса OnkoWiki (web desktop, web mobile)](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
 
-[Тестирование сервиса Яндекс.Самокат (веб, мобильное приложение и API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
+[Тестирование сервиса Яндекс.Самокат (web desktop, app mobile, API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
 
-[Тестирование мобильного приложения Яндекс.Метро и API приложения Яндекс.Прилавок](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
+[Тестирование Яндекс.Метро (app mobile) и приложения Яндекс.Прилавок (API)](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
 
-[Тестирование функциональности «Каршеринг» веб-приложения Яндекс.Маршруты](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
+[Тестирование функциональности «Каршеринг» Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
 
 [Тестирование веб-приложения Яндекс.Маршруты](https://docs.google.com/spreadsheets/d/1d4mboWYrsOR20T3RCMyOkszIu7VfB-4XsocD-KhyzAY/edit?usp=sharing)
