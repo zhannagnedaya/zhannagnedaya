@@ -43,6 +43,6 @@
 
 [Тестирование сервиса Яндекс.Метро (app mobile) и приложения Яндекс.Прилавок (API)](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
 
-[Тестирование функциональности «Каршеринг» Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
+[Тестирование функциональности «Каршеринг» сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
 
 [Тестирование сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/1d4mboWYrsOR20T3RCMyOkszIu7VfB-4XsocD-KhyzAY/edit?usp=sharing)
