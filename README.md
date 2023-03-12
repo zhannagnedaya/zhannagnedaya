@@ -4,7 +4,7 @@
 
 # certificates & feedback
 
-Яндекс Практикум -- Диплом о профессиональной переподготовке по профессии «Тестирование веб-приложений на Python» -- in progress
+Яндекс Практикум -- «Тестирование веб-приложений на Python» -- in progress
 
 [Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школах 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
 
@@ -20,7 +20,14 @@
 
 [Atlassian Jira -- Certificate of Completion Jira Fundamentals Badge](https://university.atlassian.com/student/award/cBqD4ESBWavDSgyZshgLZeMw)
 
-[Stepik -- Jira ведение задач на электронных досках](https://drive.google.com/file/d/1x402q7AcEK--Im0m_pYM2pdEfbfTXZqY/view?usp=sharing)
+
+---
+
+# projects -- automation testing
+
+[Автотесты для сервиса Stellar Burgers](https://github.com/zhannagnedaya/qa_python_sprint_3) -- python
+
+[Автотесты для сервиса BooksCollector](https://github.com/zhannagnedaya/qa_python_sprint_2) -- python
 
 ---
 
