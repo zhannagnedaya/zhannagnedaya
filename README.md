@@ -25,6 +25,8 @@
 
 # projects -- automation testing
 
+[Автотесты для сервиса Яндекс.Самокат] -- python -- in progress
+
 [Автотесты для сервиса Stellar Burgers](https://github.com/zhannagnedaya/qa_python_sprint_3) -- python
 
 [Автотесты для сервиса BooksCollector](https://github.com/zhannagnedaya/qa_python_sprint_2) -- python
