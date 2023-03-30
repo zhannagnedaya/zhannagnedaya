@@ -4,7 +4,7 @@
 
 # certificates & feedback
 
-[Яндекс Практикум -- «Тестирование веб-приложений на Python»] -- in progress
+[Яндекс Практикум -- Удостоверение о повышении квалификации по программе «Тестирование веб-приложений на Python»](https://drive.google.com/file/d/1aVCG6jNhmeoyHAnk7DZXNd7awlCt9k-Y/view?usp=share_link)
 
 [Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школах 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
 
