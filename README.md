@@ -1,4 +1,4 @@
-# [CV](https://drive.google.com/file/d/1EzFu0Qje-GR-17MjpBAt5A3QtJ4AVl9s/view?usp=share_link) 
+# [CV](https://drive.google.com/file/d/1QV4RXGUsE9L3Lfijy893w-rDXNUV16fG/view?usp=share_link) 
 
 ---
 
@@ -40,6 +40,9 @@
 [Тестирование сервиса [Grustnogram](https://grustnogram.ru) (app mobile, web mobile, web desktop)] -- portfolio in progress
 
 [Тестирование сервиса OnkoWiki (web desktop, web mobile)](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
+
+
+учебные проекты:
 
 [Тестирование сервиса Яндекс.Самокат (web desktop, app mobile, API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
 
