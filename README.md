@@ -1,4 +1,4 @@
-# [CV](https://drive.google.com/file/d/17gNtst1mrfl1M0tttF4qZbFhpDXvPEuz/view?usp=drive_link) 
+# [CV](https://drive.google.com/file/d/1tjr9WfmxwdHFXRprAdxQBQKXfWE3WhL3/view?usp=drive_link) 
 
 ---
 
