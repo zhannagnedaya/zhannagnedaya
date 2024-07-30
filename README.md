@@ -8,7 +8,7 @@
 
 [Yandex Practicum -- Certificate of Comletion of Web Application Testing In Python Professional Training Course](https://drive.google.com/file/d/1v1Gcd-a6jE-jGeCnj1PCX_W7tTNQ3CDz/view?usp=share_link)
 
-[Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школах 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
+[Академия Яндекса -- Сертификат об участии в хакатонах в рамках Летних школ 2022 ](https://drive.google.com/file/d/1yrf7PI3Bjcftom8d2I28izT0FsdRNRr7/view?usp=share_link)
 
 [Яндекс Практикум -- Благодарственное письмо за участие в тестировании сайтов Фонда медицинских решений «Не напрасно» ](https://drive.google.com/file/d/1pfCQgVndUyYfZeukQpQM3Qoihsn8_Mi7/view?usp=share_link)
 
