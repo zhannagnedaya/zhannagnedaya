@@ -46,7 +46,7 @@
 
 [Тестирование сервиса Яндекс.Самокат (web desktop, app mobile, API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
 
-[Тестирование сервиса Яндекс.Метро (app mobile) и приложения Яндекс.Прилавок (API)](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
+[Тестирование сервиса Яндекс.Метро (app mobile)](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
 
 [Тестирование приложения Яндекс.Прилавок (API)](https://docs.google.com/spreadsheets/d/1PYkmk88XCI0c2ABcYjoVwOE1udQnBgP6M4lZo2BAIgU/edit?usp=drive_link)
 
