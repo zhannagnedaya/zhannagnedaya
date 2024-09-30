@@ -4,6 +4,8 @@
 
 # certificates & feedback
 
+[ДВФУ -- Удостоверение о повышении квалификации по программе «Основы баз данных и SQL запросов»](https://drive.google.com/file/d/1E9j1RX4jsqi-2HLPB0SwC7pKtbIq7pW-/view?usp=drive_link)
+
 [Яндекс Практикум -- Удостоверение о повышении квалификации по программе «Тестирование веб-приложений на Python»](https://drive.google.com/file/d/1aVCG6jNhmeoyHAnk7DZXNd7awlCt9k-Y/view?usp=share_link)
 
 [Yandex Practicum -- Certificate of Comletion of Web Application Testing In Python Professional Training Course](https://drive.google.com/file/d/1v1Gcd-a6jE-jGeCnj1PCX_W7tTNQ3CDz/view?usp=share_link)
