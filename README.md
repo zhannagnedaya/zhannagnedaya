@@ -1,8 +1,9 @@
-# [CV](https://drive.google.com/file/d/1cAZpRDI9Ea4j5ULkPrTebPeDZMG6bVpa/view?usp=drive_link) 
+## [CV](https://drive.google.com/file/d/1cAZpRDI9Ea4j5ULkPrTebPeDZMG6bVpa/view?usp=drive_link) 
 
 ---
 
-# certificates & feedback
+<details>
+<summary> certificates & feedback </summary>
 
 [ДВФУ -- Удостоверение о повышении квалификации по программе «Основы баз данных и SQL запросов»](https://drive.google.com/file/d/1E9j1RX4jsqi-2HLPB0SwC7pKtbIq7pW-/view?usp=drive_link)
 
@@ -24,22 +25,27 @@
 
 [Atlassian Jira -- Certificate of Completion Jira Fundamentals Badge](https://university.atlassian.com/student/award/cBqD4ESBWavDSgyZshgLZeMw)
 
+</details>
 
 ---
 
-# projects -- automation testing
+<details>
+<summary> projects -- automation testing (python) </summary>
 
 учебные проекты:
 
-[Автотесты для сервиса Яндекс.Самокат](https://github.com/zhannagnedaya/qa_python_sprint_4) -- python
+[Автотесты для сервиса Яндекс.Самокат](https://github.com/zhannagnedaya/qa_python_sprint_4)
 
-[Автотесты для сервиса Stellar Burgers](https://github.com/zhannagnedaya/qa_python_sprint_3) -- python
+[Автотесты для сервиса Stellar Burgers](https://github.com/zhannagnedaya/qa_python_sprint_3)
 
-[Автотесты для сервиса BooksCollector](https://github.com/zhannagnedaya/qa_python_sprint_2) -- python
+[Автотесты для сервиса BooksCollector](https://github.com/zhannagnedaya/qa_python_sprint_2)
+
+</details>
 
 ---
 
-# projects -- manual testing
+<details>
+<summary> projects -- manual testing </summary>
 
 [Тестирование сервиса [Grustnogram](https://grustnogram.ru) (app mobile, web mobile, web desktop)] -- portfolio in progress
 
@@ -57,3 +63,5 @@
 [Тестирование функциональности «Каршеринг» сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
 
 [Тестирование сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/1d4mboWYrsOR20T3RCMyOkszIu7VfB-4XsocD-KhyzAY/edit?usp=sharing)
+
+</details>
