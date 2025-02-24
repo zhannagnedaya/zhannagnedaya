@@ -47,6 +47,8 @@
 <details>
 <summary> projects -- manual testing </summary>
 
+некоммерческие проекты:
+
 [Тестирование сервиса [Grustnogram](https://grustnogram.ru) (app mobile, web mobile, web desktop)] -- portfolio in progress
 
 [Тестирование сервиса OnkoWiki (web desktop, web mobile)](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
