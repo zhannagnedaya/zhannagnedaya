@@ -2,7 +2,7 @@
 ---
 
 <details>
-<summary> certificates & feedback </summary>
+<summary> certificates & feedback </summary><br>
 
 [ДВФУ -- Удостоверение о повышении квалификации по программе «Основы баз данных и SQL запросов»](https://drive.google.com/file/d/1E9j1RX4jsqi-2HLPB0SwC7pKtbIq7pW-/view?usp=drive_link)
 
