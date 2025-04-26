@@ -29,7 +29,7 @@
 ---
 
 <details>
-<summary> projects -- automation testing (python) </summary>
+<summary> projects -- automation testing (python) </summary><br>
 
 учебные проекты:
 
