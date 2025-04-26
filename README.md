@@ -1,4 +1,3 @@
-## [CV](https://drive.google.com/file/d/1cAZpRDI9Ea4j5ULkPrTebPeDZMG6bVpa/view?usp=drive_link) 
 
 ---
 
@@ -43,27 +42,3 @@
 </details>
 
 ---
-
-<details>
-<summary> projects -- manual testing </summary>
-
-некоммерческие проекты:
-
-[Тестирование сервиса [Grustnogram](https://grustnogram.ru) (app mobile, web mobile, web desktop)] -- portfolio in progress
-
-[Тестирование сервиса OnkoWiki (web desktop, web mobile)](https://docs.google.com/spreadsheets/d/19BXCx2C3uLrW2ZXM2gcUYGqat5OXrTo6dVAbZ2T3VXw/edit?usp=share_link)
-
-
-учебные проекты:
-
-[Тестирование сервиса Яндекс.Самокат (web desktop, app mobile, API)](https://docs.google.com/spreadsheets/d/18E1l1nIsjQGFjl6IELjFDh-aou1JF0eVSoohL4zTGcQ/edit?usp=sharing)
-
-[Тестирование сервиса Яндекс.Метро (app mobile)](https://docs.google.com/spreadsheets/d/1_xuCbEOqALC_vJKvCGgd6cATVBw5weJbyHiiH9G-mdk/edit?usp=sharing)
-
-[Тестирование приложения Яндекс.Прилавок (API)](https://docs.google.com/spreadsheets/d/1PYkmk88XCI0c2ABcYjoVwOE1udQnBgP6M4lZo2BAIgU/edit?usp=drive_link)
-
-[Тестирование функциональности «Каршеринг» сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/123weKjVyaAwktksV5bQW5RVUH88NF1WvWAyKypiwyo8/edit?usp=sharing)
-
-[Тестирование сервиса Яндекс.Маршруты (web desktop)](https://docs.google.com/spreadsheets/d/1d4mboWYrsOR20T3RCMyOkszIu7VfB-4XsocD-KhyzAY/edit?usp=sharing)
-
-</details>
